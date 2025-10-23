@@ -1,0 +1,19 @@
+---
+title: "Research Topic"
+format: html
+editor: visual
+---
+
+
+#1st Research topic - Urban Greenery and Air Quality:
+We will analyze the relationship between urban greenery and air quality.
+Does more green mean better air, are there other factors?
+We can get data from EPA‘s Air Quality data
+#2nd Research topic - Social media and Mental health indicators:
+We'll analyze the relationship between social media use and mental health indicators.
+Does more time on social media mean worse mental health.
+What platform may make mental health worse.
+We'll get data from Pew Research Center on social media use
+#3rd Research topic - Wage Inequality and Education Level across industries:
+We'll analyze the relationship with how education level equates to one's wages
+We'll get data from IPUMS USA about education and its relation to wages
